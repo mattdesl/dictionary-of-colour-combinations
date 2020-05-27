@@ -12,3 +12,4 @@ src/cmyk_icc
 src/data/icc/
 src/augment_sanzo.py
 images/
+requirements.txt
