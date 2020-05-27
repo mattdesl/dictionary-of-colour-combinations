@@ -1,0 +1,33 @@
+{
+  "name": "dictionary-of-colour-combinations",
+  "version": "1.0.0",
+  "description": "palettes from A Dictionary of Colour Combinations",
+  "main": "./colors.json",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "palette",
+    "palettes",
+    "colour",
+    "colors",
+    "scheme",
+    "schemes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/dictionary-of-colour-combinations.git"
+  },
+  "homepage": "https://github.com/mattdesl/dictionary-of-colour-combinations",
+  "bugs": {
+    "url": "https://github.com/mattdesl/dictionary-of-colour-combinations/issues"
+  }
+}
