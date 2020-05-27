@@ -1,12 +1,12 @@
 # dictionary-of-colour-combinations
 
-A JSON dataset of 348 colour combinations (of 2, 3, and 4 colours) on 159 unique colours, from the book ["A Dictionary of Colour Combinations"](https://coloursmayvary.com/products/copy-of-a-dictionary-of-colour-combinations-by-sanzo-wada) compiled by Sanzo Wada (1883 – 1967) and published by Seigensha Art.
+A JSON dataset of 348 colour combinations (of 2, 3, and 4 colours) of 159 unique colours, from the book ["A Dictionary of Colour Combinations"](https://coloursmayvary.com/products/copy-of-a-dictionary-of-colour-combinations-by-sanzo-wada) compiled by Sanzo Wada (1883 – 1967) and published by Seigensha Art.
 
 ![book](./images/print.jpg)
 
 ### Special Thanks
 
-The data here has originally been compiled and open sourced by **Dain M. Blodorn Kim** (@dblodorn) for his interactive web version ([dblodorn/sanzo-wada](https://github.com/dblodorn/sanzo-wada/)). This fork exists solely to provide the dataset, with some changes and additional details for use in colour science projects.
+The data here has originally been compiled and open sourced by **Dain M. Blodorn Kim** (@dblodorn) for his interactive web version ([dblodorn/sanzo-wada](https://github.com/dblodorn/sanzo-wada/)). In this fork, I've fixed some incorrect data from the book, used a more perceptual CMYK to RGB conversion, and encapsulated the dataset as a standalone and distributed project.
 
 ### Data
 
