@@ -28,7 +28,7 @@ In the book, each unique colour has:
 
 - A name such as "Burnt Sienna" or "Rosolanc Purple"
 - Combinations: which palette(s) this colour is associated with (identifiers from 1 to 348)
-- CMYK values in `C% / Y% / M% / K%` from 0 to 100
+- CMYK values in `C% / M% / Y% / K%` from 0 to 100
 - Which swatch book the colour is associated with (the 159 colours are split into 6 chapters)
 
 The colours are already sorted by the author in a fairly pleasing way, and the data here maintains that order.
