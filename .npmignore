@@ -8,3 +8,7 @@ test.js
 demo/
 .npmignore
 LICENSE.md
+src/cmyk_icc
+src/data/icc/
+src/augment_sanzo.py
+images/
