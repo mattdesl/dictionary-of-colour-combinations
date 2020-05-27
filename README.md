@@ -80,7 +80,7 @@ There may still be some differences to the book's printed swatches, as the conve
 
 ## Converting from Source
 
-If you wish to convert the CMYK values to RGB/LAB/HEX with a different profiles, you can do the following with Python:
+If you wish to convert the CMYK values to RGB/LAB/HEX with different colour profiles, you can do the following with Python:
 
 ```sh
 pip3 install -r requirements.txt
