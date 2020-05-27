@@ -1,6 +1,6 @@
 {
   "name": "dictionary-of-colour-combinations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "palettes from A Dictionary of Colour Combinations",
   "main": "./colors.json",
   "license": "MIT",
