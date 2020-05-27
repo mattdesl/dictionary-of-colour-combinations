@@ -6,7 +6,7 @@ A JSON dataset of 348 colour combinations (of 2, 3, and 4 colours) of 159 unique
 
 ### Special Thanks
 
-The data here has originally been compiled and open sourced by **Dain M. Blodorn Kim** (@dblodorn) for his interactive web version ([dblodorn/sanzo-wada](https://github.com/dblodorn/sanzo-wada/)). In this fork, I've fixed some incorrect data from the book, used a more perceptual CMYK to RGB conversion, and encapsulated the dataset as a standalone and distributed project.
+The data here has originally been compiled and open sourced by **Dain M. Blodorn Kim** (@dblodorn) for his interactive web version ([dblodorn/sanzo-wada](https://github.com/dblodorn/sanzo-wada/)). In this fork, I've fixed some incorrect data from the original, used a more perceptual CMYK to RGB conversion, and encapsulated the dataset as a standalone and distributed project.
 
 ### Data
 
